@@ -1,0 +1,407 @@
+{
+    "competition": {
+        "id": "4165",
+        "name": "AFL",
+        "books": [
+            {
+                "id": "6036812",
+                "name": "Port Adelaide v Geelong",
+                "closeTime": "2021-08-27T09:50:00.000+0000",
+                "matchId": "CD_M20210142401",
+                "round": "24",
+                "propositions": [
+                    {
+                        "id": "686786127",
+                        "name": "Port Adelaide",
+                        "returnWin": 1.8,
+                        "premiership": 5.0,
+                        "h2h": 1.8,
+                        "line": 1.9,
+                        "handicap": -3.5,
+                        "marginSmall": 2.3,
+                        "marginLarge": 6.0,
+                        "clubId": "CD_T110",
+                        "number": 110,
+                        "sortOrder": 1,
+                        "bettingStatus": "PRICED",
+                        "url": "http://pubads.g.doubleclick.net/gampad/clk?id=5387220705&iu=/7414/TEL.AFL",
+                        "contextualUrls": {
+                            "fixture": "http://pubads.g.doubleclick.net/gampad/clk?id=5398600500&iu=/7414/TEL.AFL",
+                            "ladder": "http://pubads.g.doubleclick.net/gampad/clk?id=5398600503&iu=/7414/TEL.AFL",
+                            "matchCentre": "http://pubads.g.doubleclick.net/gampad/clk?id=5398600506&iu=/7414/TEL.AFL"
+                        }
+                    },
+                    {
+                        "id": "686786129",
+                        "name": "Geelong",
+                        "returnWin": 2.05,
+                        "premiership": 4.2,
+                        "h2h": 2.05,
+                        "line": 1.9,
+                        "handicap": 3.5,
+                        "marginSmall": 2.4,
+                        "marginLarge": 9.0,
+                        "clubId": "CD_T70",
+                        "number": 70,
+                        "sortOrder": 2,
+                        "bettingStatus": "PRICED",
+                        "url": "http://pubads.g.doubleclick.net/gampad/clk?id=5387220705&iu=/7414/TEL.AFL",
+                        "contextualUrls": {
+                            "fixture": "http://pubads.g.doubleclick.net/gampad/clk?id=5398600500&iu=/7414/TEL.AFL",
+                            "ladder": "http://pubads.g.doubleclick.net/gampad/clk?id=5398600503&iu=/7414/TEL.AFL",
+                            "matchCentre": "http://pubads.g.doubleclick.net/gampad/clk?id=5398600506&iu=/7414/TEL.AFL"
+                        }
+                    }
+                ],
+                "displayInApp": true,
+                "displayInAppIOS": true,
+                "displayInAppAndroid": true
+            },
+            {
+                "id": "6037062",
+                "name": "Sydney v Greater Western Sydney",
+                "closeTime": "2021-08-28T05:20:00.000+0000",
+                "matchId": "CD_M20210142402",
+                "round": "24",
+                "propositions": [
+                    {
+                        "id": "686813976",
+                        "name": "Sydney",
+                        "returnWin": 1.61,
+                        "premiership": 15.0,
+                        "h2h": 1.61,
+                        "line": 1.9,
+                        "handicap": -8.5,
+                        "marginSmall": 2.2,
+                        "marginLarge": 5.0,
+                        "clubId": "CD_T160",
+                        "number": 160,
+                        "sortOrder": 1,
+                        "bettingStatus": "PRICED",
+                        "url": "http://pubads.g.doubleclick.net/gampad/clk?id=5387220705&iu=/7414/TEL.AFL",
+                        "contextualUrls": {
+                            "fixture": "http://pubads.g.doubleclick.net/gampad/clk?id=5398600500&iu=/7414/TEL.AFL",
+                            "ladder": "http://pubads.g.doubleclick.net/gampad/clk?id=5398600503&iu=/7414/TEL.AFL",
+                            "matchCentre": "http://pubads.g.doubleclick.net/gampad/clk?id=5398600506&iu=/7414/TEL.AFL"
+                        }
+                    },
+                    {
+                        "id": "686813977",
+                        "name": "Greater Western Sydney",
+                        "returnWin": 2.34,
+                        "premiership": 21.0,
+                        "h2h": 2.34,
+                        "line": 1.9,
+                        "handicap": 8.5,
+                        "marginSmall": 2.75,
+                        "marginLarge": 11.0,
+                        "clubId": "CD_T1010",
+                        "number": 1010,
+                        "sortOrder": 2,
+                        "bettingStatus": "PRICED",
+                        "url": "http://pubads.g.doubleclick.net/gampad/clk?id=5387220705&iu=/7414/TEL.AFL",
+                        "contextualUrls": {
+                            "fixture": "http://pubads.g.doubleclick.net/gampad/clk?id=5398600500&iu=/7414/TEL.AFL",
+                            "ladder": "http://pubads.g.doubleclick.net/gampad/clk?id=5398600503&iu=/7414/TEL.AFL",
+                            "matchCentre": "http://pubads.g.doubleclick.net/gampad/clk?id=5398600506&iu=/7414/TEL.AFL"
+                        }
+                    }
+                ],
+                "displayInApp": true,
+                "displayInAppIOS": true,
+                "displayInAppAndroid": true
+            },
+            {
+                "id": "6037064",
+                "name": "Melbourne v Brisbane",
+                "closeTime": "2021-08-28T09:30:00.000+0000",
+                "matchId": "CD_M20210142403",
+                "round": "24",
+                "propositions": [
+                    {
+                        "id": "686813994",
+                        "name": "Melbourne",
+                        "returnWin": 1.63,
+                        "premiership": 3.75,
+                        "h2h": 1.63,
+                        "line": 1.9,
+                        "handicap": -7.5,
+                        "marginSmall": 2.25,
+                        "marginLarge": 5.0,
+                        "clubId": "CD_T90",
+                        "number": 90,
+                        "sortOrder": 1,
+                        "bettingStatus": "PRICED",
+                        "url": "http://pubads.g.doubleclick.net/gampad/clk?id=5387220705&iu=/7414/TEL.AFL",
+                        "contextualUrls": {
+                            "fixture": "http://pubads.g.doubleclick.net/gampad/clk?id=5398600500&iu=/7414/TEL.AFL",
+                            "ladder": "http://pubads.g.doubleclick.net/gampad/clk?id=5398600503&iu=/7414/TEL.AFL",
+                            "matchCentre": "http://pubads.g.doubleclick.net/gampad/clk?id=5398600506&iu=/7414/TEL.AFL"
+                        }
+                    },
+                    {
+                        "id": "686813995",
+                        "name": "Brisbane",
+                        "returnWin": 2.28,
+                        "premiership": 5.5,
+                        "h2h": 2.28,
+                        "line": 1.9,
+                        "handicap": 7.5,
+                        "marginSmall": 2.63,
+                        "marginLarge": 11.0,
+                        "clubId": "CD_T20",
+                        "number": 20,
+                        "sortOrder": 2,
+                        "bettingStatus": "PRICED",
+                        "url": "http://pubads.g.doubleclick.net/gampad/clk?id=5387220705&iu=/7414/TEL.AFL",
+                        "contextualUrls": {
+                            "fixture": "http://pubads.g.doubleclick.net/gampad/clk?id=5398600500&iu=/7414/TEL.AFL",
+                            "ladder": "http://pubads.g.doubleclick.net/gampad/clk?id=5398600503&iu=/7414/TEL.AFL",
+                            "matchCentre": "http://pubads.g.doubleclick.net/gampad/clk?id=5398600506&iu=/7414/TEL.AFL"
+                        }
+                    }
+                ],
+                "displayInApp": true,
+                "displayInAppIOS": true,
+                "displayInAppAndroid": true
+            },
+            {
+                "id": "6037063",
+                "name": "Western Bulldogs v Essendon",
+                "closeTime": "2021-08-29T05:20:00.000+0000",
+                "matchId": "CD_M20210142404",
+                "round": "24",
+                "propositions": [
+                    {
+                        "id": "686813985",
+                        "name": "Western Bulldogs",
+                        "returnWin": 1.55,
+                        "premiership": 10.0,
+                        "h2h": 1.55,
+                        "line": 1.9,
+                        "handicap": -10.5,
+                        "marginSmall": 2.1,
+                        "marginLarge": 5.0,
+                        "clubId": "CD_T140",
+                        "number": 140,
+                        "sortOrder": 1,
+                        "bettingStatus": "PRICED",
+                        "url": "http://pubads.g.doubleclick.net/gampad/clk?id=5387220705&iu=/7414/TEL.AFL",
+                        "contextualUrls": {
+                            "fixture": "http://pubads.g.doubleclick.net/gampad/clk?id=5398600500&iu=/7414/TEL.AFL",
+                            "ladder": "http://pubads.g.doubleclick.net/gampad/clk?id=5398600503&iu=/7414/TEL.AFL",
+                            "matchCentre": "http://pubads.g.doubleclick.net/gampad/clk?id=5398600506&iu=/7414/TEL.AFL"
+                        }
+                    },
+                    {
+                        "id": "686813986",
+                        "name": "Essendon",
+                        "returnWin": 2.46,
+                        "premiership": 26.0,
+                        "h2h": 2.46,
+                        "line": 1.9,
+                        "handicap": 10.5,
+                        "marginSmall": 2.8,
+                        "marginLarge": 13.0,
+                        "clubId": "CD_T50",
+                        "number": 50,
+                        "sortOrder": 2,
+                        "bettingStatus": "PRICED",
+                        "url": "http://pubads.g.doubleclick.net/gampad/clk?id=5387220705&iu=/7414/TEL.AFL",
+                        "contextualUrls": {
+                            "fixture": "http://pubads.g.doubleclick.net/gampad/clk?id=5398600500&iu=/7414/TEL.AFL",
+                            "ladder": "http://pubads.g.doubleclick.net/gampad/clk?id=5398600503&iu=/7414/TEL.AFL",
+                            "matchCentre": "http://pubads.g.doubleclick.net/gampad/clk?id=5398600506&iu=/7414/TEL.AFL"
+                        }
+                    }
+                ],
+                "displayInApp": true,
+                "displayInAppIOS": true,
+                "displayInAppAndroid": true
+            },
+            {
+                "id": "5456172",
+                "name": "AFL Premiership Winner 2021",
+                "closeTime": "2021-09-25T03:00:00.000+0000",
+                "matchId": null,
+                "round": null,
+                "propositions": [
+                    {
+                        "id": "599063192",
+                        "name": "Melbourne",
+                        "returnWin": 3.75,
+                        "premiership": 3.75,
+                        "h2h": null,
+                        "line": null,
+                        "handicap": null,
+                        "marginSmall": null,
+                        "marginLarge": null,
+                        "clubId": "CD_T90",
+                        "number": 90,
+                        "sortOrder": 1,
+                        "bettingStatus": "PRICED",
+                        "url": "http://pubads.g.doubleclick.net/gampad/clk?id=5387220705&iu=/7414/TEL.AFL",
+                        "contextualUrls": {
+                            "fixture": "http://pubads.g.doubleclick.net/gampad/clk?id=5398600500&iu=/7414/TEL.AFL",
+                            "ladder": "http://pubads.g.doubleclick.net/gampad/clk?id=5398600503&iu=/7414/TEL.AFL",
+                            "matchCentre": "http://pubads.g.doubleclick.net/gampad/clk?id=5398600506&iu=/7414/TEL.AFL"
+                        }
+                    },
+                    {
+                        "id": "599063204",
+                        "name": "Geelong",
+                        "returnWin": 4.2,
+                        "premiership": 4.2,
+                        "h2h": null,
+                        "line": null,
+                        "handicap": null,
+                        "marginSmall": null,
+                        "marginLarge": null,
+                        "clubId": "CD_T70",
+                        "number": 70,
+                        "sortOrder": 2,
+                        "bettingStatus": "PRICED",
+                        "url": "http://pubads.g.doubleclick.net/gampad/clk?id=5387220705&iu=/7414/TEL.AFL",
+                        "contextualUrls": {
+                            "fixture": "http://pubads.g.doubleclick.net/gampad/clk?id=5398600500&iu=/7414/TEL.AFL",
+                            "ladder": "http://pubads.g.doubleclick.net/gampad/clk?id=5398600503&iu=/7414/TEL.AFL",
+                            "matchCentre": "http://pubads.g.doubleclick.net/gampad/clk?id=5398600506&iu=/7414/TEL.AFL"
+                        }
+                    },
+                    {
+                        "id": "599063205",
+                        "name": "Brisbane",
+                        "returnWin": 5.5,
+                        "premiership": 5.5,
+                        "h2h": null,
+                        "line": null,
+                        "handicap": null,
+                        "marginSmall": null,
+                        "marginLarge": null,
+                        "clubId": "CD_T20",
+                        "number": 20,
+                        "sortOrder": 3,
+                        "bettingStatus": "PRICED",
+                        "url": "http://pubads.g.doubleclick.net/gampad/clk?id=5387220705&iu=/7414/TEL.AFL",
+                        "contextualUrls": {
+                            "fixture": "http://pubads.g.doubleclick.net/gampad/clk?id=5398600500&iu=/7414/TEL.AFL",
+                            "ladder": "http://pubads.g.doubleclick.net/gampad/clk?id=5398600503&iu=/7414/TEL.AFL",
+                            "matchCentre": "http://pubads.g.doubleclick.net/gampad/clk?id=5398600506&iu=/7414/TEL.AFL"
+                        }
+                    },
+                    {
+                        "id": "599063196",
+                        "name": "Port Adelaide",
+                        "returnWin": 5.0,
+                        "premiership": 5.0,
+                        "h2h": null,
+                        "line": null,
+                        "handicap": null,
+                        "marginSmall": null,
+                        "marginLarge": null,
+                        "clubId": "CD_T110",
+                        "number": 110,
+                        "sortOrder": 4,
+                        "bettingStatus": "PRICED",
+                        "url": "http://pubads.g.doubleclick.net/gampad/clk?id=5387220705&iu=/7414/TEL.AFL",
+                        "contextualUrls": {
+                            "fixture": "http://pubads.g.doubleclick.net/gampad/clk?id=5398600500&iu=/7414/TEL.AFL",
+                            "ladder": "http://pubads.g.doubleclick.net/gampad/clk?id=5398600503&iu=/7414/TEL.AFL",
+                            "matchCentre": "http://pubads.g.doubleclick.net/gampad/clk?id=5398600506&iu=/7414/TEL.AFL"
+                        }
+                    },
+                    {
+                        "id": "599063201",
+                        "name": "Western Bulldogs",
+                        "returnWin": 10.0,
+                        "premiership": 10.0,
+                        "h2h": null,
+                        "line": null,
+                        "handicap": null,
+                        "marginSmall": null,
+                        "marginLarge": null,
+                        "clubId": "CD_T140",
+                        "number": 140,
+                        "sortOrder": 5,
+                        "bettingStatus": "PRICED",
+                        "url": "http://pubads.g.doubleclick.net/gampad/clk?id=5387220705&iu=/7414/TEL.AFL",
+                        "contextualUrls": {
+                            "fixture": "http://pubads.g.doubleclick.net/gampad/clk?id=5398600500&iu=/7414/TEL.AFL",
+                            "ladder": "http://pubads.g.doubleclick.net/gampad/clk?id=5398600503&iu=/7414/TEL.AFL",
+                            "matchCentre": "http://pubads.g.doubleclick.net/gampad/clk?id=5398600506&iu=/7414/TEL.AFL"
+                        }
+                    },
+                    {
+                        "id": "599063193",
+                        "name": "Sydney",
+                        "returnWin": 15.0,
+                        "premiership": 15.0,
+                        "h2h": null,
+                        "line": null,
+                        "handicap": null,
+                        "marginSmall": null,
+                        "marginLarge": null,
+                        "clubId": "CD_T160",
+                        "number": 160,
+                        "sortOrder": 6,
+                        "bettingStatus": "PRICED",
+                        "url": "http://pubads.g.doubleclick.net/gampad/clk?id=5387220705&iu=/7414/TEL.AFL",
+                        "contextualUrls": {
+                            "fixture": "http://pubads.g.doubleclick.net/gampad/clk?id=5398600500&iu=/7414/TEL.AFL",
+                            "ladder": "http://pubads.g.doubleclick.net/gampad/clk?id=5398600503&iu=/7414/TEL.AFL",
+                            "matchCentre": "http://pubads.g.doubleclick.net/gampad/clk?id=5398600506&iu=/7414/TEL.AFL"
+                        }
+                    },
+                    {
+                        "id": "599063206",
+                        "name": "Greater Western Sydney",
+                        "returnWin": 21.0,
+                        "premiership": 21.0,
+                        "h2h": null,
+                        "line": null,
+                        "handicap": null,
+                        "marginSmall": null,
+                        "marginLarge": null,
+                        "clubId": "CD_T1010",
+                        "number": 1010,
+                        "sortOrder": 7,
+                        "bettingStatus": "PRICED",
+                        "url": "http://pubads.g.doubleclick.net/gampad/clk?id=5387220705&iu=/7414/TEL.AFL",
+                        "contextualUrls": {
+                            "fixture": "http://pubads.g.doubleclick.net/gampad/clk?id=5398600500&iu=/7414/TEL.AFL",
+                            "ladder": "http://pubads.g.doubleclick.net/gampad/clk?id=5398600503&iu=/7414/TEL.AFL",
+                            "matchCentre": "http://pubads.g.doubleclick.net/gampad/clk?id=5398600506&iu=/7414/TEL.AFL"
+                        }
+                    },
+                    {
+                        "id": "599063207",
+                        "name": "Essendon",
+                        "returnWin": 26.0,
+                        "premiership": 26.0,
+                        "h2h": null,
+                        "line": null,
+                        "handicap": null,
+                        "marginSmall": null,
+                        "marginLarge": null,
+                        "clubId": "CD_T50",
+                        "number": 50,
+                        "sortOrder": 8,
+                        "bettingStatus": "PRICED",
+                        "url": "http://pubads.g.doubleclick.net/gampad/clk?id=5387220705&iu=/7414/TEL.AFL",
+                        "contextualUrls": {
+                            "fixture": "http://pubads.g.doubleclick.net/gampad/clk?id=5398600500&iu=/7414/TEL.AFL",
+                            "ladder": "http://pubads.g.doubleclick.net/gampad/clk?id=5398600503&iu=/7414/TEL.AFL",
+                            "matchCentre": "http://pubads.g.doubleclick.net/gampad/clk?id=5398600506&iu=/7414/TEL.AFL"
+                        }
+                    }
+                ],
+                "displayInApp": true,
+                "displayInAppIOS": true,
+                "displayInAppAndroid": true
+            }
+        ],
+        "displayInApp": true,
+        "displayInAppIOS": true,
+        "displayInAppAndroid": true
+    }
+}
