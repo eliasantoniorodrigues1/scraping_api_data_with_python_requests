@@ -12,7 +12,7 @@
  5 - Atualiar a página novamente e observar os requests realizados
 
  6 - Você verá que o type do request será de um arquivo json, esse arquivo
-  tem todas as informações necessárias para se ter acesso a API, Header e token.
+  tem todas as informações necessárias para se ter acesso a API, Header e token e etc.
 
  7 - Copiar o cURL
 
@@ -24,6 +24,7 @@
 
  11 - Após isso você pode fazer um teste de GET para visualizar as informações
   retonadas
+  
  12 - Clicar em code e selecionar a linguagem que desejar importar esse código
  
  13 - Usar os dados para seus insights :smile:
